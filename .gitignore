@@ -1,7 +1,2 @@
 /cmake-build-debug/
-/.idea/.gitignore
-/.idea/BspDemo.iml
-/.idea/misc.xml
-/.idea/modules.xml
-/.idea/runConfigurations/OCD_BspDemo.xml
-/.idea/vcs.xml
+/.idea/
